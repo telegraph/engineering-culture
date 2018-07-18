@@ -25,7 +25,7 @@ We support self-improvement through experience, observation, introspection, read
 
 Our teams should follow the motto of “You Build It - You Run It - You Own It” and should adopt a DevOps culture of shared ownership and skills. Teams are empowered to make any changes to the applications they own but with this responsibility also comes an ownership of the operational aspects.
 
-We embrace failure, learn from mistakes and remain humble. We run blameless postmortems as screw-ups are expected to happen. In fact, if they don’t, it means we are not taking enough risks and moving too slowly. We can’t afford that. Nobody will blame you for screwing up. It’s actually almost the opposite: A well-written post mortem with good action points will get you praise. And the whole organisation will learn and improve and not make the same mistake again.
+We embrace failure, learn from mistakes and remain humble. We run blameless postmortems as screw-ups are expected to happen. In fact, if they don’t, it means we are not taking enough risks and moving too slowly. We can’t afford that. Nobody will blame you for screwing up. It’s actually almost the opposite: a well-written post mortem with good action points will get you praise. And the whole organisation will learn and improve and not make the same mistake again.
 
 ## We always optimise for iteration Speed.
 
@@ -47,7 +47,7 @@ Automation is extremely high-leverage. We invest in automated testing, automated
 
 ## We allow for Innovation and experimentation.
 
-Be Lean. Focus on value first. Make it safe to explore and align people to the customer. Use a “Spike & Stabilse” pattern where we deliver business value using the smallest increment, measure the effects and decided to pivot or preserve. Then immediately pay down any tech debt if we’re on the right course.
+Be Lean. Focus on value first. Make it safe to explore and align people to the customer. Use a “Spike & Stabilise” pattern where we deliver business value using the smallest increment, measure the effects and decided to pivot or preserve. Then immediately pay down any tech debt if we’re on the right course.
 
 We re-conceptualise issues to discover practical solutions to hard problems. We challenge prevailing assumptions and suggest better approaches.
 
