@@ -1,4 +1,4 @@
-# Telegraph Engineering culture in 6 core values:
+# The Telegraph Engineering culture in 6 core values:
 
  - People come first
  - We are all Accountable.
